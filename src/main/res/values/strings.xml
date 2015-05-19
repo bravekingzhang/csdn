@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">csdn</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Add</string>
+    <string name="bloger_main_header">我收藏的CSDN博客</string>
+</resources>

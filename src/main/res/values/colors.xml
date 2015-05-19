@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="csdn_font_color_blue">#ff1fa6bc</color>
+    <color name="csdn_font_color_black">#ff000000</color>
+    <color name="csdn_font_color_white">#ffffffff</color>
+</resources>

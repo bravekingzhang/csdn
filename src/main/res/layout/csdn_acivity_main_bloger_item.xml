@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center"
+              android:orientation="vertical">
+
+    <in.srain.cube.image.CubeImageView
+        android:id="@+id/csdn_main_activity_bloger_iv_header"
+        android:layout_width="@dimen/csdn_header_pic_xl"
+        android:layout_height="@dimen/csdn_header_pic_xl"
+        android:scaleType="fitCenter"/>
+
+    <TextView
+        android:id="@+id/csdn_main_activity_bloger_tv_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="hahah"/>
+
+</LinearLayout>

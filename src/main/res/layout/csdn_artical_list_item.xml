@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/csdn_article_list_item_layout"
+              xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:paddingLeft="10dp"
+              android:paddingRight="10dp">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:background="#ffdcdcdc"/>
+
+    <TextView
+        android:id="@+id/csdn_article_list_item_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="这里是标题"
+        android:textSize="@dimen/csdn_font_size_xl"/>
+
+    <TextView
+        android:id="@+id/csdn_article_list_item_contentdes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="这里是内容简介"
+        android:textSize="@dimen/csdn_font_size_s"/>
+</LinearLayout>
