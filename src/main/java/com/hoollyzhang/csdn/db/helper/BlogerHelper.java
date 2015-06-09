@@ -1,4 +1,4 @@
-package com.hoollyzhang.csdn.mode.helper;
+package com.hoollyzhang.csdn.db.helper;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
